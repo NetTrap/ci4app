@@ -6,7 +6,7 @@
         <div class="col-8">
             <h2 class="my-3">Form Tambah Data Buku</h2>
 
-            <form action="/books/save" method="post">
+            <form action="/books/save" method="post" enctype="multipart/form-data">
                 <?= csrf_field(); ?>
                 <div class="form-group row">
                     <label for="judul" class="col-sm-2 col-form-label">Judul</label>
