@@ -24,3 +24,11 @@
 
 - Database
   ![img7](ss/07.PNG)
+
+## Migration dan Seedeing
+
+- Migration
+  ![img8](ss/08.PNG)
+
+- Seeder
+  ![img9](ss/09.PNG)
