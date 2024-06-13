@@ -14,8 +14,13 @@
                     <a class="nav-link" href="<?= base_url('/pages/about'); ?>">Tentang</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="<?= base_url('/books'); ?>">Daftar Buku</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="<?= base_url('/penulis'); ?>">Daftar Penulis</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="<?= base_url('/pages/contact'); ?>">Hubungi Kami</a>
-                <li><a class="nav-link" href="<?= base_url('/books'); ?>">Daftar Buku</a></li>
                 </li>
             </ul>
             <!-- <div class="navbar-nav">

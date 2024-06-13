@@ -32,3 +32,11 @@
 
 - Seeder
   ![img9](ss/09.PNG)
+
+## Pagination dan Searching
+
+- Pagination
+  ![img10](ss/10.PNG)
+
+- Search Data
+  ![img11](ss/11.PNG)
